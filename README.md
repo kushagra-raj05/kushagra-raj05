@@ -89,26 +89,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kumar-02ab4a28a/">
+  <a href="https://www.linkedin.com/in/kushagra-raj-sinha-86622929a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="mailto:shubamkumar3039@gmail.com">
+  <a href="mailto:archanasinha549@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 
-
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-</p>
