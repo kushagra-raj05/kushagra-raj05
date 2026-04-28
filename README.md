@@ -70,6 +70,11 @@
 
 </p>
 
+
+## 🐍 Contribution Snake (Live Animation)
+
+![snake dark](https://github.com/kushagra-raj05/kushagra-raj05/blob/output/snake.svg)
+
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra-raj05&theme=tokyo-night&hide_border=true" />
