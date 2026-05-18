@@ -85,7 +85,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra-raj05&theme=tokyo-night&hide_border=true" />
 
-
 ## 📊 GitHub Analytics
 
 <p align="center">
