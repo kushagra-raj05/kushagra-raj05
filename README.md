@@ -11,7 +11,7 @@
 - 🔭 I’m currently working upon some end to end projects.
 - 🌱 I’m currently learning machine learning operations.
 - 👯 I’m looking to collaborate on project from which i can upskill myself and implements my idea.
-- 🤔 I’m looking for help with AI/ML internship.
+- 🤔 I’m looking for help with AI/ML internship and further opportunities.
 - 🧠 I'm Strong in DSA & Problem Solving
 
 
