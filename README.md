@@ -6,7 +6,7 @@
 
 # ⭐ About Me
 # Hi!👋I'm Kushagra Raj sinha, a passionate B.Tech Computer Science (AI/ML) Engineer.
-## I dedicate oneself to foundation in Machine Learning, Deep Learning, and Transformer architectures, with hands-on understanding of embeddings, attention mechanisms, and neural optimization. I relish applying analytical thinking and computational technique to solve impactful real-world challenges while continuously exploring emerging advancements in artificial intelligence and next-generation Foundation Models.
+## I dedicate oneself to foundation in Machine Learning, Deep Learning, and Transformer architectures, with hands-on understanding of embeddings, attention mechanisms, and neural optimization. I relish applying analytical thinking and computational technique to solve impactful real-world challenges while continuously exploring emerging advancements in artificial intelligence and next-generation artificial intelligence models
 
 - 🔭 I’m currently working upon some end to end projects.
 - 🌱 I’m currently learning machine learning operations.
